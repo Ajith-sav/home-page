@@ -17,7 +17,7 @@
     </section> 
    
     <section class="b_name">
-        <h1 class="brand">NAR Browser</h1> 
+        <h1 class="brand"><center>NAR Browser</center></h1> 
     </section>
     
     <div class="searchbar" id="searchbar">
