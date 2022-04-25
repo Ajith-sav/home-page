@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -18,7 +17,7 @@
     </section> 
    
     <section class="b_name">
-        <h1 class="brand">NAR Browser</h1> 
+       <center><h1 class="brand">NAR Browser</h1></center> 
     </section>
     
     <div class="searchbar" id="searchbar">
