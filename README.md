@@ -9,6 +9,16 @@
 </head>
 
 <body>
+    <style>
+        body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dde4ee;
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    </style>
     <section class="logo-and-brand">
         <img
         class="NAR-logo"
